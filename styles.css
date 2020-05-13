@@ -4,3 +4,18 @@
     height: 80%;
     width: 40%;
 }
+
+.relative-left {
+    position: absolute;
+    left: 10px;
+  }
+.relative-right {
+    position: absolute;
+    right: 10px;
+  }
+
+  .default {
+    position:absolute;
+    bottom:0px;
+    left:0px;
+  }
